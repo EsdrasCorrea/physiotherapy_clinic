@@ -1,0 +1,12 @@
+C:\Users\esdra\Documents\Projetos\physiotherapy_clinic\BackEnd\src\ClinicApp.Domain\bin\Debug\net6.0\ClinicApp.Domain.deps.json
+C:\Users\esdra\Documents\Projetos\physiotherapy_clinic\BackEnd\src\ClinicApp.Domain\bin\Debug\net6.0\ClinicApp.Domain.dll
+C:\Users\esdra\Documents\Projetos\physiotherapy_clinic\BackEnd\src\ClinicApp.Domain\bin\Debug\net6.0\ClinicApp.Domain.pdb
+C:\Users\esdra\Documents\Projetos\physiotherapy_clinic\BackEnd\src\ClinicApp.Domain\obj\Debug\net6.0\ClinicApp.Domain.csproj.AssemblyReference.cache
+C:\Users\esdra\Documents\Projetos\physiotherapy_clinic\BackEnd\src\ClinicApp.Domain\obj\Debug\net6.0\ClinicApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esdra\Documents\Projetos\physiotherapy_clinic\BackEnd\src\ClinicApp.Domain\obj\Debug\net6.0\ClinicApp.Domain.AssemblyInfoInputs.cache
+C:\Users\esdra\Documents\Projetos\physiotherapy_clinic\BackEnd\src\ClinicApp.Domain\obj\Debug\net6.0\ClinicApp.Domain.AssemblyInfo.cs
+C:\Users\esdra\Documents\Projetos\physiotherapy_clinic\BackEnd\src\ClinicApp.Domain\obj\Debug\net6.0\ClinicApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\esdra\Documents\Projetos\physiotherapy_clinic\BackEnd\src\ClinicApp.Domain\obj\Debug\net6.0\ClinicApp.Domain.dll
+C:\Users\esdra\Documents\Projetos\physiotherapy_clinic\BackEnd\src\ClinicApp.Domain\obj\Debug\net6.0\refint\ClinicApp.Domain.dll
+C:\Users\esdra\Documents\Projetos\physiotherapy_clinic\BackEnd\src\ClinicApp.Domain\obj\Debug\net6.0\ClinicApp.Domain.pdb
+C:\Users\esdra\Documents\Projetos\physiotherapy_clinic\BackEnd\src\ClinicApp.Domain\obj\Debug\net6.0\ref\ClinicApp.Domain.dll
